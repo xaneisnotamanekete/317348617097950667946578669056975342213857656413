@@ -16,10 +16,21 @@ let score = 0,
 
 // Master Switch Board
 let learnedDia = false,
-    learnedEstoma = false,
     learnedMabufu = false,
-    learnedMaziodyne = false,
-    learnedEandI = false;
+    learnedColdworld = false,
+    learnedlullaby = false,
+    learnedinfhail = false,
+    learnedgrand = false,
+    learndedhands = false,
+    learnedmakabuild = false,
+    learnedEandI = false,
+    learnedhexagram = false,
+    learnedshine= false,
+    learnedraging = false,
+    learnedraga = false,
+    learnedpunch = false,
+    learnedsinai = false,
+    learnedstigmata = false;
 
 // Making our button give us Macca based on the mult
 danteButton.addEventListener('click', function() {
